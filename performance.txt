@@ -1,0 +1,2 @@
+MNB model with parameters alpha = 1, task: emotion
+confusion matrix for emotion:
