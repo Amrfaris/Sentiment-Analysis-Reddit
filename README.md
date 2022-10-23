@@ -16,6 +16,8 @@ https://github.com/Amrfaris/Sentiment-Analysis-Reddit
 
 5. Open Q3.iynb, restart and run all cells.
 
+6. The result is read onto to the performance.txt file.
+
 
 ### Dependencies
 Libraries Used:
