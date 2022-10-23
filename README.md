@@ -39,6 +39,7 @@ Files:
 * COMP_472_project.ipynb
 * Q3.ipynb
 * performance.txt
+* analysis.pdf
 
 
 ### Execution 
