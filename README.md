@@ -1,21 +1,46 @@
-# COMP 472 Project 
+# COMP 472 Project 1
 ---
-AI stuff
+1.1
 
-##Getting Started
----
+https://github.com/Amrfaris/Sentiment-Analysis-Reddit
+
+1.2 Instructions
+
+1. Open Anaconda Prompt.
+
+2. Change the current location to the folder of the project and open jupyter notebook.
+
+3. Open COMP_472_project.ipynb, restart and run all cells.
+
+4. The performance for all the models is read onto the performance.txt file.
+
+5. Open Q3.iynb, restart and run all cells.
+
+
 ### Dependencies
-- Check project description for libraries needed 
+Libraries Used:
+
+* numpy
+* warnings
+* json
+* gzip
+* matplotlib
+* sklearn
+* joblib
+* nltk
+* gensim
+* gensim.downloader
+
+
+Files: 
+
+* README.md
+* goemotions.json.gz
+* COMP_472_project.ipynb
+* Q3.ipynb
+* performance.txt
+
 
 ### Execution 
-We're using Jupyter Notebook so stick to that
+We're using Jupyter Notebook.
 
----
-## Notes 
----
-- please please please watch this video : https://www.youtube.com/watch?v=M9Itm95JzL0\
-its an 1 hour and 40 minutes , 1 hour 15 mins with 1.25, you will literally understand EVERYTHING
-- The code is thoroughly annotated so read the comments, go over the code
-- Keep your code organized, use markdowns, and name your variables thoughtfully 
-- write comments , just one liners to say what you did  
-- WATCH THE VIDEO 
